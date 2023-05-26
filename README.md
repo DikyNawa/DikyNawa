@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DikyNawa
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Data Science, Blockchain, and Software Development
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You to reach me on email : diki.nawadwiputra@gmail.com and instagram : dikynawa 
 
 <!---
 DikyNawa/DikyNawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

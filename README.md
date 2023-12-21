@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DikyNawa
 - 👀 I’m interested in Data Science, Blockchain, and Software Development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning About Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 You to reach me on email : diki.nawadwiputra@gmail.com and instagram : dikynawa 
 
